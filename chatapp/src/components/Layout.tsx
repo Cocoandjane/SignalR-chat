@@ -13,7 +13,6 @@ import {
 
 interface props {
     name: string;
-    setChatList: any;
 }
 
 interface IMessage {

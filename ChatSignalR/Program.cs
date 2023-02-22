@@ -51,6 +51,9 @@ builder.Services.AddDbContext<ChatContextDb>(
 );
 
 var app = builder.Build();
+app.UseDefaultFiles();
+app.UseStaticFiles();
+app.MapFallbackToFile("index.html");
 app.MapHub<ChatHub>("/r/chatHub");
 
 

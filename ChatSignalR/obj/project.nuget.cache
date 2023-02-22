@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8xvjKsStD9Gf60LrLAW1QSDiT7eEwAwCSitXssO730W3NfMGuDxI/xsInICd5lUM/tCfeoG59aU3ZryS8gwlEw==",
+  "dgSpecHash": "03Jb3KAPgbazSUXpDw913byBZun+xzwXhcm0ODQ0685lW5xDIwGmLn+XGL2yNMJcgfz2+1XXvkOGhVGu2tDGUA==",
   "success": true,
-  "projectFilePath": "/Users/jane/Desktop/term4/csharp2/week6/lab6/ChatSignalR/ChatSignalR.csproj",
+  "projectFilePath": "/Users/jane/Desktop/SignalR-chat/ChatSignalR/ChatSignalR.csproj",
   "expectedPackageFiles": [
     "/Users/jane/.nuget/packages/dotnetenv/2.5.0/dotnetenv.2.5.0.nupkg.sha512",
     "/Users/jane/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
