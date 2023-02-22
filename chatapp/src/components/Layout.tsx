@@ -60,7 +60,9 @@ export default function Layout({ name }: props) {
 
     //====================================== SELECT ROOM MAKE ROOM CHANEL==================================================================
     async function handleSelectRoom(chat: any) {
-
+     if(connection){
+            await connection.stop();
+        }
         console.log('handleSelectRoom called with', chat);
         setState({ user_id: chat.user_id, room_id: chat.room_id, name: chat.name, other_user_id: chat.other_user_id, room_user_id: chat.room_user_id, room_name: chat.room_name });
         // dispatch({ type: 'SET_ROOM_AND_USER', payload: { user_id: chat.user_id, room_id: chat.room_id, name: chat.name, other_user_id: chat.other_user_id, room_user_id: chat.room_user_id } });
