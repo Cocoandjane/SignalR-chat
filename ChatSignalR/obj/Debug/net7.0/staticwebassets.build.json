@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "+Qd9lpWmV+vY5NL1ujZWvpes5TGTaZeM2Rhsbf1Ia10=",
+  "Source": "ChatSignalR",
+  "BasePath": "_content/ChatSignalR",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ChatSignalR/wwwroot",
+      "Source": "ChatSignalR",
+      "ContentRoot": "/Users/jane/Desktop/term4/csharp2/week6/lab6/ChatSignalR/wwwroot/",
+      "BasePath": "_content/ChatSignalR",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{57E912CC-9971-4F39-8792-FE23F5C847F0}|https">
+  <MonoDevelop.Ide.ItemProperties.ChatSignalR PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/RoomUser.cs">
+    <Files>
+      <File FileName="Data/ChatContextDb.cs" Line="25" Column="37" />
+      <File FileName="Models/Message.cs" Line="1" Column="1" />
+      <File FileName="Models/RoomUser.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChatSignalR" expanded="True">
+            <Node name="ChatSignalR" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="RoomUser.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
