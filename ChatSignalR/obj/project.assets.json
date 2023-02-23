@@ -6566,11 +6566,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jane/Desktop/SignalR-chat/ChatSignalR/ChatSignalR.csproj",
+      "projectUniqueName": "/Users/jane/Desktop/term4/csharp2/week6/SignalR-chat/ChatSignalR/ChatSignalR.csproj",
       "projectName": "ChatSignalR",
-      "projectPath": "/Users/jane/Desktop/SignalR-chat/ChatSignalR/ChatSignalR.csproj",
+      "projectPath": "/Users/jane/Desktop/term4/csharp2/week6/SignalR-chat/ChatSignalR/ChatSignalR.csproj",
       "packagesPath": "/Users/jane/.nuget/packages/",
-      "outputPath": "/Users/jane/Desktop/SignalR-chat/ChatSignalR/obj/",
+      "outputPath": "/Users/jane/Desktop/term4/csharp2/week6/SignalR-chat/ChatSignalR/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jane/.nuget/NuGet/NuGet.Config"

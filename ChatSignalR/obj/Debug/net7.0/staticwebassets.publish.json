@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "Hash": "o39P7dvxEI+3mktQiSBUlhfWPFV3NzatMgfkR3ACYfU=",
+  "Hash": "58DHhPuFZi0Z/IqDMtk6ydj5W3OhHQlyLZD+021ZL5o=",
   "Source": "ChatSignalR",
   "BasePath": "_content/ChatSignalR",
   "Mode": "Default",
-  "ManifestType": "Build",
+  "ManifestType": "Publish",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
